@@ -6,4 +6,5 @@ homeWork.code-workspace
 node_modules/
 .stylelintrc.json
 .htmlhintrc
+.vscode/
 icon
